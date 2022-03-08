@@ -15,5 +15,5 @@ https://toranoshippo.github.io/fx-calculater/version2_2/index.html
 USDJPY利益計算<br>
 https://toranoshippo.github.io/fx-calculater/version3/index.html
 
-USDJPY利益計算(pispから算出)<br>
+USDJPY利益計算(pipsから算出)<br>
 https://toranoshippo.github.io/fx-calculater/version3_2/index.html
